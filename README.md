@@ -1,0 +1,2 @@
+# MS2020_Linux
+关于如何再CentOS环境安装Materials Studio的帮助文档
